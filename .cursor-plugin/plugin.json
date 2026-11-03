@@ -1,0 +1,14 @@
+{
+  "name": "decision-records",
+  "displayName": "Decision Records",
+  "version": "0.1.0",
+  "description": "Record durable engineering decisions (ADRs) with scope, authority, dated evidence, and reopening conditions, and recover existing decisions before proposing design changes.",
+  "author": { "name": "xshi19" },
+  "repository": "https://github.com/xshi19/decision-records",
+  "homepage": "https://github.com/xshi19/decision-records",
+  "license": "MIT",
+  "keywords": ["adr", "decision-records", "architecture", "evidence"],
+  "category": "developer-tools",
+  "tags": ["documentation", "planning", "workflow"],
+  "skills": "./skills/"
+}
